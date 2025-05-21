@@ -19,7 +19,6 @@
             display-name = "Caps Word";
         };
     };
-=======
 	behaviors {
 		/omit-if-no-ref/ caps_word: behavior_caps_word {
 			compatible = "zmk,behavior-caps-word";
