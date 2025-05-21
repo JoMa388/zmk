@@ -8,7 +8,6 @@
 #include <dt-bindings/zmk/keys.h>
 
 / {
-<<<<<<< HEAD
     behaviors {
 #if ZMK_BEHAVIOR_OMIT(CAPS_WORD)
         /omit-if-no-ref/
@@ -44,6 +43,5 @@
 			ignore-numbers;
 		};
 	};
->>>>>>> pr-1451
 };
 
